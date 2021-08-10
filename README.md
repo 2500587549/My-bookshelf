@@ -22,6 +22,5 @@ npm run dev
 
 后台的数据接口利用了网上分享的数据接口
 http://api.zhuishushenqi.com
-参考了https://www.cnblogs.com/Stars-are-shining/p/13345856.html的大佬给的接口
-```
+参考了https://www.cnblogs.com/Stars-are-shining/p/13345856.html的大佬提供的接口
 

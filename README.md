@@ -14,7 +14,8 @@ npm install
 npm run dev
 ```
 ### 介绍
-```
+
+
 利用vue构建的看书网站，前端页面利用到了vue全家桶，
 前端页面参考了https://www.jianshu.com/p/5e796675f95b
 一城叶秋风 大佬的效果图和思路
